@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@400;700&display=swap");
+
+:root {
+  --primary-clr-100: hsl(243, 87%, 12%);
+  --primary-clr-200: hsl(238, 22%, 44%);
+  --Accent-clr-100: hsl(224, 93%, 58%);
+  --Accent-clr-200: hsl(170, 45%, 43%);
+  --Neutral-clr-100: hsl(240, 75%, 98%);
+  --Neutral-clr-200: hsl(0, 0%, 75%);
+  --ff-headings: "Raleway", sans-serif;
+  --ff-body: "Open Sans", sans-serif;
+}
